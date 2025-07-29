@@ -8,10 +8,15 @@ A full-stack algorithm visualizer project using:
 ## 🔧 Project Structure
 
 algorithm-visualizer/
+
 ├── .gitignore
+
 ├── README.md
+
 ├── cpp-algorithms/
+
 ├── backend/
+
 └── frontend/
 
 ## 📥 How It Works
